@@ -10,12 +10,15 @@
   },
   "dependencies": {
     "@astrojs/react": "^4.3.0",
+    "@headlessui/react": "^2.2.4",
     "@tailwindcss/vite": "^4.1.8",
-    "@types/react": "^19.1.6",
-    "@types/react-dom": "^19.1.5",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
     "astro": "^5.8.1",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.3.8",
+    "vite": "^5.2.10"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
